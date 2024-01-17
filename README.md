@@ -1,0 +1,7 @@
+Hiring Classification
+
+In the course of this project, my primary goal was to predict whether job candidates were ultimately hired or not, based on the data provided within the dataset.
+Having completed the data cleaning, I transitioned into the Exploratory Data Analysis phase. Here, I delved into the dataset's characteristics, seeking to uncover insights that could inform our predictive modeling efforts. This involved scrutinizing individual data attributes through univariate data analysis, as well as exploring relationships and patterns between different data points through bivariate data analysis.
+The next pivotal phase was Preprocessing and Modeling. In this step, I prepared the dataset to make it suitable for machine learning algorithms. This entailed a series of data transformations, such as encoding categorical variables and scaling numerical features, to enable our models to effectively learn from the data. Subsequently, I implemented machine learning models, including Logistic Regression, Random Forest, and XGBoost, to build predictive models for candidate hiring outcomes.
+Following model creation, I employed metrics like ROC AUC to assess how accurately the models predicted hiring outcomes. Additionally, I used a Classification Report to provide a comprehensive evaluation of each model's performance.
+Finally, I synthesized the findings and insights from the project, offering a conclusion that summarized the results and identified the most effective model for predicting candidate hiring outcomes based on the dataset's characteristics.
